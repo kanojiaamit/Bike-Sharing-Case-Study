@@ -18,3 +18,16 @@ Based on various meteorological surveys and people's styles, the service provide
 
 ## Business Goal:
 You are required to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market. 
+
+
+## Outcome/Inferences:
+
+• Spring and Fall seasons have the most bookings with fall having the highest. This looks like an optimal season for increasing bike rentals 
+• Months from June to October have higher bookings as compared to rest of the months this also corresponds with the seasons of spring and fall. 
+• Mist and Clear weather situations clearly show a good trend with higher bike bookings. Optimally a clear weather is preferred by bike riders 
+• Most of the bike bookings were happening during non-holidays. This could be due to people choosing to spend their time with friends or family 
+• There has been a significant increase in bookings for year 2019 which indicates growth for the bike sharing market.
+• Below three are the top features contributing significantly towards explaining the demand of the shared bikes
+  - temp (0.3304)
+  - light_rain (-0.2828)
+  - yr (0.2374)
